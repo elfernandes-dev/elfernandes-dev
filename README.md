@@ -4,7 +4,7 @@
 ---
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/evandro-fernandes-dev/)
-[![Instagram](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/https://www.instagram.com/elfernandes.dev/)
+[![Instagram](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/elfernandes.dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:elfernandes.dev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/EvandroFernandesDev)
 
